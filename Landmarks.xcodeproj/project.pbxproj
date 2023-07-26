@@ -40,6 +40,7 @@
 		2ADDD7562A6ADD6700C026D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADDD7552A6ADD6700C026D6 /* ContentView.swift */; };
 		2ADDD7582A6ADD6800C026D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ADDD7572A6ADD6800C026D6 /* Assets.xcassets */; };
 		2ADDD75B2A6ADD6800C026D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ADDD75A2A6ADD6800C026D6 /* Preview Assets.xcassets */; };
+		2AF234842A70187400B7BE2F /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF234832A70187400B7BE2F /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +78,7 @@
 		2ADDD7552A6ADD6700C026D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2ADDD7572A6ADD6800C026D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2ADDD75A2A6ADD6800C026D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2AF234832A70187400B7BE2F /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			children = (
 				2A1BF3722A7009BC00741A01 /* ProfileHost.swift */,
 				2A1BF3742A700A2700741A01 /* ProfileSummary.swift */,
+				2AF234832A70187400B7BE2F /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 			files = (
 				2AD125F42A6EBBDE00429779 /* Hike.swift in Sources */,
 				2AD125E72A6EAA1F00429779 /* HexagonParameters.swift in Sources */,
+				2AF234842A70187400B7BE2F /* ProfileEditor.swift in Sources */,
 				2A1BF3752A700A2700741A01 /* ProfileSummary.swift in Sources */,
 				2ADDD7562A6ADD6700C026D6 /* ContentView.swift in Sources */,
 				2A1BF3702A7008B800741A01 /* Profile.swift in Sources */,
