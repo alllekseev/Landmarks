@@ -46,6 +46,7 @@ struct ProfileEditor: View {
                 Text("Goal Date").bold()
             }
         }
+        .listStyle(.inset)
     }
 }
 
